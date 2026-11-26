@@ -50,3 +50,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.env
+guestbook/.env
+guestbook/k8s/secret.yaml
+.venv/
+.ruff_cache/
+*:Zone.Identifier
